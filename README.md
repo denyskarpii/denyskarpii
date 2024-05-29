@@ -219,6 +219,14 @@ With a solid foundation of computer science and concept art, focus on the creati
         <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" />
       <br>Solidity
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
+      <br>Flutter
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
+      <br>Nginx
+    </td>
   </tr>
 
   <tr>
@@ -288,14 +296,6 @@ With a solid foundation of computer science and concept art, focus on the creati
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
-      <br>Flutter
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
-      <br>Nginx
     </td>
  </tr>
 </table>
