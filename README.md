@@ -53,6 +53,10 @@ With a solid foundation of computer science and concept art, focus on the creati
       <br>Sketchup
     </td>
     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=blender" width="48" height="48" alt="Blender" />
+      <br>Blender
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=ps" width="48" height="48" alt="Photoshop" />
       <br>Photoshop
     </td>
@@ -198,10 +202,6 @@ With a solid foundation of computer science and concept art, focus on the creati
       <br>Java
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" alt="Threejs" />
-      <br>Threejs
-    </td>
-    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="icon" width="65" height="65" />
       <br>Gatsby
     </td>
@@ -218,10 +218,6 @@ With a solid foundation of computer science and concept art, focus on the creati
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" />
       <br>Solidity
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C#
     </td>
   </tr>
 
