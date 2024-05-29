@@ -60,6 +60,14 @@ With a solid foundation of computer science and concept art, focus on the creati
         <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="Illustrator" />
       <br>Illustrator
     </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C#
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" alt="Threejs" />
+      <br>Threejs
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
