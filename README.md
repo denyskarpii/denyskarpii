@@ -1,6 +1,6 @@
 <link href="style.css" rel="stylesheet"></link>
 
-<h1 align="center">Hi, I'm CodeMax (BayMax v2)
+<h1 align="center">Hi, I am Denys Karpii, a Game Developer/3D Artist.
   <div align="center">
     <a href="#">
       <img src="https://readme-typing-svg.herokuapp.com?lines=Senior%20Full-Stack+Engineer;Readable,%20Maintainable%20and%20Scalable%20Code;Innovator%20in%20crafting%20solutions;Architect%20of%20scalable%20systems;Mentorship%20and%20empowerment;Problem-solving%20prowess;Adaptability%20in%20dynamic%20environments;Seamless%20collaboration%20across%20teams;Full%20lifecycle%20expertise;Championing%20coding%20standards;Polished%20deliverables;Leading%20with%20innovation&center=true&width=500&height=50">
@@ -27,10 +27,9 @@
 
 ###
 
-I am a highly-skilled Senior Full Stack Developer with a wide range of experience in various web and mobile frameworks, programming languages and methodologies.
+Seasoned developer with 5+ years of experience in software development, is professional with Unity Game Development, Front End Development and 3D Artistry. 
 
-As an experienced developer, I always build pixel-perfect and fully-responsive websites with clean and reusable code.
-What I value is to write structured, tested, readable, maintainable and scalable codes in best practices.💕
+With a solid foundation of computer science and concept art, focus on the creating and developing immersive world of game and website. Passionate in coming up with new idea and learning new techniques to empower my stack and skills.
 
 <!-- This is test -->
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
