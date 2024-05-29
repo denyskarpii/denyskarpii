@@ -40,6 +40,27 @@ With a solid foundation of computer science and concept art, focus on the creati
         <img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity" />
       <br>Unity
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=unreal" width="48" height="48" alt="Unreal" />
+      <br>Unreal
+    </td>
+    <td align="center" width="96">
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=godot" width="48" height="48" alt="Godot" />
+      <br>Godot
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sketchup" width="48" height="48" alt="Sketchup" />
+      <br>Sketchup
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ps" width="48" height="48" alt="Photoshop" />
+      <br>Photoshop
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="Illustrator" />
+      <br>Illustrator
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
