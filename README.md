@@ -16,7 +16,7 @@
 
 <div align="center">
   <a href="#">
-    <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=7Love7code7&show_icons=true&theme=radical&hide=issues&rank_icon=github&include_all_commits=true&card_width=150" />
+    <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=DenysKarpii&show_icons=true&theme=radical&hide=issues&rank_icon=github&include_all_commits=true&card_width=150" />
   </a>
   <!-- <a href="#">
     <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=7Love7code7&hide=html,scss,css,less&langs_count=4&layout=compact&theme=radical&card_width=150" />
