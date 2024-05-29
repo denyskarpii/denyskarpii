@@ -45,7 +45,6 @@ With a solid foundation of computer science and concept art, focus on the creati
       <br>Unreal
     </td>
     <td align="center" width="96">
-    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=godot" width="48" height="48" alt="Godot" />
       <br>Godot
     </td>
