@@ -1,6 +1,6 @@
 <link href="style.css" rel="stylesheet"></link>
 
-<h1 align="center">Hi, I am Denys Karpii, a Skilled Full Stack Engineer.
+<h1 align="center">Hi, I am Denys Karpii | Full Stack Engineer.
   <div align="center">
     <a href="#">
       <img src="https://readme-typing-svg.herokuapp.com?lines=Expert%20Full%20Stack%20Developer;Specialized%20in%20AI%20Integration;Creative%20Idea,%20Passionate%20Development;Readable,%20Maintainable%20and%20Scalable%20Code;Innovator%20in%20crafting%20solutions;Architect%20of%20scalable%20systems;Mentorship%20and%20empowerment;Problem-solving%20prowess;Adaptability%20in%20dynamic%20environments;Seamless%20collaboration%20across%20teams;Full%20lifecycle%20expertise;Championing%20coding%20standards;Polished%20deliverables;Leading%20with%20innovation;Transformative%20Digital%20Solutions;&center=true&width=500&height=50">
