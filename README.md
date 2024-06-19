@@ -1,9 +1,9 @@
 <link href="style.css" rel="stylesheet"></link>
 
-<h1 align="center">Hi, I am Denys Karpii, a Game Developer/3D Artist.
+<h1 align="center">Hi, I am Denys Karpii, a Skilled Full Stack Engineer.
   <div align="center">
     <a href="#">
-      <img src="https://readme-typing-svg.herokuapp.com?lines=Senior%20Unity%20Game%20Developer;Creative%20Idea,%20Passionate%20Development;Readable,%20Maintainable%20and%20Scalable%20Code;Innovator%20in%20crafting%20solutions;Architect%20of%20scalable%20systems;Mentorship%20and%20empowerment;Problem-solving%20prowess;Adaptability%20in%20dynamic%20environments;Seamless%20collaboration%20across%20teams;Full%20lifecycle%20expertise;Championing%20coding%20standards;Polished%20deliverables;Leading%20with%20innovation&center=true&width=500&height=50">
+      <img src="https://readme-typing-svg.herokuapp.com?lines=Expert%20Full%20Stack%20Developer;Specialized%20in%20AI%20Integration;Creative%20Idea,%20Passionate%20Development;Readable,%20Maintainable%20and%20Scalable%20Code;Innovator%20in%20crafting%20solutions;Architect%20of%20scalable%20systems;Mentorship%20and%20empowerment;Problem-solving%20prowess;Adaptability%20in%20dynamic%20environments;Seamless%20collaboration%20across%20teams;Full%20lifecycle%20expertise;Championing%20coding%20standards;Polished%20deliverables;Leading%20with%20innovation;Transformative%20Digital%20Solutions;&center=true&width=500&height=50">
     </a>
   </div>
 </h1>
@@ -14,57 +14,19 @@
   </a> 
 </div>
 
-
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 ###
 
-Seasoned developer with 5+ years of experience in software development, is professional with Unity Game Development, Front End Development and 3D Artistry. 
-
-With a solid foundation of computer science and concept art, focus on the creating and developing immersive world of game and website. Passionate in coming up with new idea and learning new techniques to empower my stack and skills.
+Highly skilled Full Stack Developer with over 5 years of comprehensive experience in remote work environments.
+Proficient in both front-end and back-end development, leveraging a diverse technology stack to build and maintain robust, scalable, and efficient applications.
+Demonstrated expertise in collaborating with cross-functional teams, managing project timelines, and delivering high-quality code in agile settings. Strong problem-solving abilities and a keen eye for detail, ensuring seamless user experiences and optimal application performance.
+Adept at adapting to new technologies and continuously improving development processes to meet evolving business needs.
 
 <!-- This is test -->
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥𝐬</h2>
 <table align="center">
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity" />
-      <br>Unity
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=unreal" width="48" height="48" alt="Unreal" />
-      <br>Unreal
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=godot" width="48" height="48" alt="Godot" />
-      <br>Godot
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sketchup" width="48" height="48" alt="Sketchup" />
-      <br>Sketchup
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=blender" width="48" height="48" alt="Blender" />
-      <br>Blender
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ps" width="48" height="48" alt="Photoshop" />
-      <br>Photoshop
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="Illustrator" />
-      <br>Illustrator
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C#
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" alt="Threejs" />
-      <br>Threejs
-    </td>
-  </tr>
   <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
@@ -289,22 +251,15 @@ With a solid foundation of computer science and concept art, focus on the creati
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C#
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" alt="Threejs" />
+      <br>Threejs
+    </td>
  </tr>
 </table>
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-
-<!--
-**7Love7code7/7Love7code7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
