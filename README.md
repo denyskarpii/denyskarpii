@@ -20,8 +20,10 @@
 
 Highly skilled Full Stack Developer with over 5 years of comprehensive experience in remote work environments.
 Proficient in both front-end and back-end development, leveraging a diverse technology stack to build and maintain robust, scalable, and efficient applications.
-Demonstrated expertise in collaborating with cross-functional teams, managing project timelines, and delivering high-quality code in agile settings. Strong problem-solving abilities and a keen eye for detail, ensuring seamless user experiences and optimal application performance.
-Adept at adapting to new technologies and continuously improving development processes to meet evolving business needs.
+
+- Demonstrated expertise in collaborating with cross-functional teams, managing project timelines, and delivering high-quality code in agile settings.
+- Strong problem-solving abilities and a keen eye for detail, ensuring seamless user experiences and optimal application performance.
+- Adept at adapting to new technologies and continuously improving development processes to meet evolving business needs.
 
 <!-- This is test -->
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
